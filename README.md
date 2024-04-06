@@ -1,5 +1,5 @@
-#<h1 align="center">Hi there 👋, I'm sadra</h1>
-<h3 align="center">A junior python developer</h3>
+<h1 align="center">Hi there 👋, I'm sadra</h1>
+<h3 align="center">A junior Django developer</h3>
 
 - 🔭 I’m currently working on **myself right now**
 
